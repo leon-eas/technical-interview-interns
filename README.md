@@ -30,3 +30,8 @@ Good luck!
 
 ### Note:
 We will evaluate your performance based on your problem solving skills and the approach that you are taking to arrive at the final solution.
+
+
+###color pallette 
+blue  #2B458F
+green" #1FB25A
