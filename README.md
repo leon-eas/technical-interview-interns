@@ -1,3 +1,4 @@
+![EA&S Logo](eas_logo_final-02.png) 
 # technical-interview-interns
 Technical Interview Question and submission link
 Duration: 
