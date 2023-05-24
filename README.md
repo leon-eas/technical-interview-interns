@@ -1,6 +1,4 @@
-![EA&S Logo](eas_logo_final-02.png)
-
-<img src="eas_logo_final-02.png" width="100" height="100">
+<img src="eas_logo_final-02.png" width="150" height="100">
 # technical-interview-interns
 Technical Interview Question and submission link
 Duration: 
