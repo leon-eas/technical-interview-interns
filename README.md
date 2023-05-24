@@ -6,7 +6,7 @@ Duration:
 60 minutes
 
 ## Task: 
-Create a simple react app with the EA&S Logo. You are free to use any online resources as long as you do not copy the entire code.
+Create a simple react stopwatch app with the EA&S Logo. You are free to use any online resources as long as you do not copy the entire code.
 
 The app should have the following features:
 
